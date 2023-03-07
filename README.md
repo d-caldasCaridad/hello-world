@@ -14,3 +14,6 @@
 Gracias a GitHub quise estudiar sobre [LICENCIAS](https://www.gnu.org/licenses/license-list.html) y lo hice desde el sitio [GNU](gnu.org) y la licencia que más me gusta para este sitio web es [AGPLv3.0](https://www.gnu.org/licenses/license-list.html#AGPLv3.0).
 
  
+## Tutorial
+
+1. [Manual para la última mala practica](mplump.md)
