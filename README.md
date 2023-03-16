@@ -17,3 +17,4 @@ Gracias a GitHub quise estudiar sobre [LICENCIAS](https://www.gnu.org/licenses/l
 ## Tutorial
 
 1. [Manual para la última mala practica](mplump.md)
+1. [Recuperando la rama principal desde el repositorio remoto a una rama para trabajar en local](set-upstream-to.md)
