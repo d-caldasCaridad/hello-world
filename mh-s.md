@@ -6,49 +6,87 @@
 
 ___
 
-1. **El nombre de la empresa es**: Most Holy.
+#### El nombre de la empresa es:
 
-2. **URL del sitio web de la empresa**: https://www.facebook.com/groups/mostholyblessed
++ Most Holy.
 
-3. **Constituida en**: Itagüí Antioquia Colombia.
+#### URL del sitio web de la empresa:
 
-4. **Descripción**: somos Most Holy de la industria de la educación y del entretenimiento con arte Hip Hop para integrar talentos y enseñar a producir desde proyectos emergentes.
++ Provisionalmente estamos en un [grupo de Facebook](https://www.facebook.com/groups/mostholyblessed)
 
-5. **Categoria**: educación y entretenimiento.
+#### Constituida en: 
 
-6. **Modelo de negocio**: ecommerce.
++ Itagüí Antioquia Colombia.
 
-7. **Demostración**: [infoproducto](https://drive.google.com/file/d/14pNLZFx6NOoJ2b6p2weEAaj6Ki-FpIru/view).
+#### Descripción:
+
++ Somos Most Holy de la industria de la educación y del entretenimiento con arte Hip Hop para integrar talentos y enseñar a producir desde proyectos emergentes.
+
+#### Categoria: 
+
++ Educación y entretenimiento.
+
+#### Modelo de negocio:
+
++ Ecommerce.
+
+#### Demostración: 
+
++ [infoproducto](https://drive.google.com/file/d/14pNLZFx6NOoJ2b6p2weEAaj6Ki-FpIru/view).
+
 ___
-8. **Founder**: Diego Toro
 
-9. **E-mail**: d.caldasCaridad@gmail.com
+#### Founder: 
 
-10. **Móvil**: 3001151592
++ Diego Toro
 
-11. **Perfil social networking**: [LinkedIn](https://www.linkedin.com/in/torocardo/).
+#### E-mail:
 
-12. **Inglés**: básico.
+d.caldasCaridad@gmail.com
 
-13. **Jornada de trabajo en el proyecto**: tiempo completo.
+#### Móvil: 
 
-14. _Sin equipo de trabajo_.
++ 3001151592
+
+#### Perfil social networking: 
+
+[LinkedIn](https://www.linkedin.com/in/torocardo/).
+
+#### Inglés: básico.
+
+#### Jornada de trabajo en el proyecto: 
+
++ Tiempo completo.
+
+#### _Sin equipo de trabajo_.
 
 ___
 
-15. **Accionista, rol y porcentaje de participación**: [Serautos FT SAS](http://serautos-ft.surge.sh/dist/#index) es la empresa que patrocina y solo requiere de mi trabajo voluntario.
+#### Accionista, rol y porcentaje de participación: 
 
-16. **Construcción del proyecto**: business plan y MPV ya están estructurados.
++ [Serautos FT SAS](http://serautos-ft.surge.sh/dist/#index) es la empresa que patrocina y solo requiere de mi trabajo voluntario.
 
-17. **La ronda de inversión**: hasta el momento acumula más de USD $10.300.
+##### Construcción del proyecto: 
 
-18. **Inversor**: Serautos FT SAS.
++ Business plan y MPV ya están estructurados.
 
-19. **Etapa de la empresa**: hemos lanzado el producto y tenemos algunos usuarios.
+#### La ronda de inversión:
 
-20. **Tiempo invertido**: más de 4 años
++ Hasta el momento acumula más de USD $10.300.
 
-21. **5 hitos clave del avance de la empresa**:
+#### Inversor:
+
++ Serautos FT SAS.
+
+#### Etapa de la empresa: 
+
++ Hemos lanzado el producto y tenemos algunos usuarios.
+
+#### Tiempo invertido:
+
++ más de 4 años
+
+#### 5 hitos clave del avance de la empresa:
 
 + Enero del 2018: se encuentra inversor
 + Agosto del 2019: se escribe el business plan
@@ -56,30 +94,46 @@ ___
 + Julio del 2021: se consigue la primer venta
 + Abril del 2022: se crea grupo de Facebook
 
-22. **Número de usuarios actualmente**: 30
+#### Número de usuarios actualmente:
 
-23. **Comentario sobre la tracción**: el año 2022 fue un año invertido estudiando el desarrollo de la web
++ 30
 
-24. **Gastos mensuales**: USD $206
+#### Comentario sobre la tracción: 
+
++ El año 2022 fue un año invertido estudiando el desarrollo de la web
+
+#### Gastos mensuales:
+
++ USD $206
 
 ___
 
-25. **La idea**: para llegar hasta este punto tuve que estudiar ventas,  investigación industrial, relaciones publicas, gestión cultural, diseño, finanzas, contabilidad, negociación, marketing digital y desarrollo web. 
+#### La idea: 
+
++ Para llegar hasta este punto tuve que estudiar ventas,  investigación industrial, relaciones publicas, gestión cultural, diseño, finanzas, contabilidad, negociación, marketing digital y desarrollo web. 
 
 Desde el 2003 he querido producir mi propia música y ser un artista del Hip Hop con el mayor control de mi producción musical y por aprovechar el boom del marketing digital decidi escribir un par de infoproductos, entonces se me ocurrió que podía ser más que un artista infoproductor vendiendo cursos en Hotmart y ahí fue donde decidí crear una plataforma de educación para la comunidad Hip Hop y enseñar holisticamete sobre este arte.
 
-26. **El problema que resuelve la empresa, sus servicios y sus productos**: satisfacer el boom de la tecnología de la información y la demanda por arte para el entretenimiento, además de ayudar a cumplir el sueño de ser artistas del Hip Hop que tienen muchas personas.
+#### El problema que resuelve la empresa, sus servicios y sus productos:
 
-27. **Buyer**: es gente entre los 13 y 50 años de edad. Son personas desde estudiantes hasta trabajadoras cabeza de familia, algunos solo quieren participar en batallas de freestyle rap, otras quieren convertirse en artistas profesionales en algún elemento del arte Hip Hop.
++ Satisfacer el boom de la tecnología de la información y la demanda por arte para el entretenimiento, además de ayudar a cumplir el sueño de ser artistas del Hip Hop que tienen muchas personas.
+
+#### Buyer:
+
++ Es gente entre los 13 y 50 años de edad. Son personas desde estudiantes hasta trabajadoras cabeza de familia, algunos solo quieren participar en batallas de freestyle rap, otras quieren convertirse en artistas profesionales en algún elemento del arte Hip Hop.
 _Aman el arte Hip Hop, la moda, el grafitti, la música, el baile... ya sabes. Son personas a las que les gusta la fiesta._
 
-28. **Nos destacamos**: en investigación, formulación y ejecución de proyectos. Marketing digital y desarrollo web.
+#### Nos destacamos:
 
-29. **En que debemos de mejorar**: debe de haber un equipo de trabajo.
++ En investigación, formulación y ejecución de proyectos. Marketing digital y desarrollo web.
+
+#### En que debemos de mejorar:
+
++ Debe de haber un equipo de trabajo.
 
 ___
 
-**Cuestiones**:
+#### Cuestiones:
 1. ¿qué piensas de esta presentación? Es decir ¿qué te parece este proyecto?
 1. ¿qué opinas del MPV? Ve leelo y vuelve con tu feedback.
 1. Si te gusta la idea ¿qué podrías aportar? Podrías sugerir, criticar, ayudar invirtiendo o entrando al equipo de trabajo... cualquier aporte es voluntario y un amor.
