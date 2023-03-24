@@ -90,7 +90,7 @@ ___
 
 + Enero del 2018: se encuentra inversor
 + Agosto del 2019: se escribe el business plan
-+ Octubra del 2020: se escribe el infoproducto MPV en un mes
++ Octubre del 2020: se escribe el infoproducto o MPV en un mes
 + Julio del 2021: se consigue la primer venta
 + Abril del 2022: se crea grupo de Facebook
 
@@ -110,9 +110,9 @@ ___
 
 #### La idea: 
 
-+ Para llegar hasta este punto tuve que estudiar ventas,  investigación industrial, relaciones publicas, gestión cultural, diseño, finanzas, contabilidad, negociación, marketing digital y desarrollo web. 
++ Para llegar hasta este punto hubo que estudiar ventas,  investigación industrial, relaciones publicas, gestión cultural, diseño, finanzas, contabilidad, negociación, marketing digital y desarrollo web. 
 
-Desde el 2003 he querido producir mi propia música y ser un artista del Hip Hop con el mayor control de mi producción musical y por aprovechar el boom del marketing digital decidi escribir un par de infoproductos, entonces se me ocurrió que podía ser más que un artista infoproductor vendiendo cursos en Hotmart y ahí fue donde decidí crear una plataforma de educación para la comunidad Hip Hop y enseñar holisticamete sobre este arte.
+_"Desde el 2003 he querido producir mi propia música y ser un artista del Hip Hop con el mayor control de mi producción musical y por aprovechar el boom del marketing digital decidi escribir un par de infoproductos, entonces se me ocurrió que podía ser más que un artista infoproductor vendiendo cursos en Hotmart y ahí fue donde decidí crear una plataforma de educación para la comunidad Hip Hop y enseñar holisticamete sobre este arte"_. **Founder**: Diego Toro
 
 #### El problema que resuelve la empresa, sus servicios y sus productos:
 
