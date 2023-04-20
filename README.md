@@ -1,6 +1,10 @@
 # ¡Hola Mundo!
 
-> Es un repositorio para aprender a utilizar *GitHub* desde su [documentación](https://docs.github.com/es/get-started/quickstart/hello-world).
+[`Git`](_post/git) [`GitHub`](_post/gh) [`Bash Shell`](_post/bs) [`Command-lines`](_post/cmd)
+
+> Este es un repositorio para aprender a utilizar *Git & GitHub* desde su [documentación](https://docs.github.com/es/get-started/quickstart/hello-world).
+
+Para usar *Git & GitHub* debemos también aprender a usar líneas de comando, así que también trataremos temas acerca de las terminales e incluso sobre procesos de automatización con **Bash Shell**.
 
 ## Lo aprendido hasta el momento de GitHub acá en `¡Hola Mundo!`
 1. Crear cuenta en [GitHub](https://GitHub.com)
@@ -13,10 +17,3 @@
 
 Gracias a GitHub quise estudiar sobre [LICENCIAS](https://www.gnu.org/licenses/license-list.html) y lo hice desde el sitio [GNU](gnu.org) y la licencia que más me gusta para este sitio web es [AGPLv3.0](https://www.gnu.org/licenses/license-list.html#AGPLv3.0).
 
-## [Startup](mh-s.md)
- 
-## Tutorial
-
-1. [Manual para la última mala practica](mplump.md)
-1. [Recuperando la rama principal desde el repositorio remoto a una rama para trabajar en local](set-upstream-to.md)
-1. [Cuando eliminas una rama que aun necesitas](reflog.md)
