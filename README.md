@@ -1,6 +1,6 @@
 # ¡Hola Mundo!
 
-[`Git`](md-gGHP/_post/git) [`GitHub`](_post/gh) [`Bash Shell`](_post/bs) [`Command-lines`](_post/cmd)
+[`Git`](_post/g) [`GitHub`](_post/gh) [`Command-lines`](_post/cmd) [`Bash Shell`](_post/bs)
 
 > Este es un repositorio para aprender a utilizar *Git & GitHub* desde su [documentación](https://docs.github.com/es/get-started/quickstart/hello-world).
 
